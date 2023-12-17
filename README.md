@@ -1,6 +1,6 @@
 <h1 align="center"> Airbnb Booking Analysis </h1>
 
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
 
 
 ![image](https://user-images.githubusercontent.com/92014177/163605895-d66fac6d-707d-4ab0-a4f4-ebd132b326ef.png)
