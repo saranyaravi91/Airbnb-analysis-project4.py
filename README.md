@@ -110,11 +110,4 @@
 * Customers will have access to information about various hosts and places.
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-* Ppt Presentation Link:-https://drive.google.com/file/d/11HlDbxsOjuewyYryelE1NxJSNhdoAwbY/view?usp=sharing
-
-* Video Presentation Link:-https://drive.google.com/file/d/1kbSnLHvZBgS4RGwCiimMuDs9aW6g5iHZ/view?usp=sharing
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
